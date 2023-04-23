@@ -1,0 +1,18 @@
+body {
+    background: rgb(181, 104, 76);
+}
+
+h1 {
+    font-family: 'Slabo 27px', serif;
+    text-align: center;
+}
+
+h1,
+li { 
+    color: rgb(219, 204, 181);
+}
+
+li {
+    font-family: 'Fauna One', serif;
+    font-size: 22px;
+}
