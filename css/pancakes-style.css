@@ -1,0 +1,25 @@
+body {
+    background: hsl(30, 80%, 63%);
+}
+
+img {
+    height: auto;
+    width: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1,
+h2 {
+    font-family: 'Yeseva One', cursive;
+}
+
+h1 {
+    text-align: center;
+}
+
+p,
+li {
+    font-family: 'Josefin Sans', sans-serif;
+}
