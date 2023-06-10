@@ -15,4 +15,37 @@ li {
 li {
     font-family: 'Fauna One', serif;
     font-size: 22px;
+    display: inline-block;
+    margin: 50px;
+    margin-left: 210px;
+}
+
+.flautas {
+    display: inline-block;
+    width: 150px;
+    margin-bottom: 20px;
+    margin-right: 15px;
+    text-align: center;
+}
+
+.pancakes {
+    display: inline-block;
+    width: 150px;
+    height: 170px;
+    margin-right: 15px;
+    text-align: center;
+}
+
+.cheeseburger {
+    display: inline-block;
+    width: 150px;
+    height: 170px;
+    text-align: center;
+}
+a:visited {
+    color:rgb(219, 204, 181);
+}
+
+a:hover {
+    color: brown;
 }
